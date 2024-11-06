@@ -6,7 +6,7 @@ import tkinter as tk
 from tkinter import scrolledtext
 
 # Define client parameters
-HOST = 'localhost'
+HOST = '127.0.0.1'
 PORT = 12345
 
 # Create a secure SSL context
